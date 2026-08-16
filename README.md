@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/shrutiOps/leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shrutiOps/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shrutiOps/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2029-stone-game-ix](https://github.com/shrutiOps/leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shrutiOps/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shrutiOps/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shrutiOps/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shrutiOps/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shrutiOps/leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shrutiOps/leetcode_solutions/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/shrutiOps/leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shrutiOps/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shrutiOps/leetcode_solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shrutiOps/leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -72,10 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/shrutiOps/leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shrutiOps/leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/shrutiOps/leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shrutiOps/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shrutiOps/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shrutiOps/leetcode_solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/shrutiOps/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shrutiOps/leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shrutiOps/leetcode_solutions/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/shrutiOps/leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shrutiOps/leetcode_solutions/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/shrutiOps/leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -139,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shrutiOps/leetcode_solutions/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/shrutiOps/leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -159,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shrutiOps/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/shrutiOps/leetcode_solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
