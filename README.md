@@ -170,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/shrutiOps/leetcode_solutions/tree/master/2029-stone-game-ix) |
+## Database
+|  |
+| ------- |
+| [1484-group-sold-products-by-the-date](https://github.com/shrutiOps/leetcode_solutions/tree/master/1484-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->
