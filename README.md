@@ -173,5 +173,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/shrutiOps/leetcode_solutions/tree/master/0176-second-highest-salary) |
 | [1484-group-sold-products-by-the-date](https://github.com/shrutiOps/leetcode_solutions/tree/master/1484-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->
