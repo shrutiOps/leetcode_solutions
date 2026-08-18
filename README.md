@@ -116,11 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shrutiOps/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [3310-remove-methods-from-project](https://github.com/shrutiOps/leetcode_solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [3310-remove-methods-from-project](https://github.com/shrutiOps/leetcode_solutions/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -163,10 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shrutiOps/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shrutiOps/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Ordered Set
 |  |
