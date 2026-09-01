@@ -18,6 +18,7 @@ private:
         nums.push_back(root->val);
         inorder(root->right);
     }
+
     TreeNode* build(int l, int r) {
         if (l > r)
             return nullptr;
@@ -25,8 +26,10 @@ private:
         TreeNode* root = new TreeNode(nums[mid]);
         root->left = build(l, mid - 1);
         root->right = build(mid + 1, r);
+
         return root;
     }
+    
 public:
     TreeNode* balanceBST(TreeNode* root) {
         inorder(root);
