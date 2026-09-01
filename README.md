@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/shrutiOps/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/shrutiOps/leetcode_solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shrutiOps/leetcode_solutions/tree/master/2029-stone-game-ix) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/shrutiOps/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shrutiOps/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3310-remove-methods-from-project](https://github.com/shrutiOps/leetcode_solutions/tree/master/3310-remove-methods-from-project) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/shrutiOps/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shrutiOps/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/shrutiOps/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shrutiOps/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Ordered Set
 |  |
@@ -272,4 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shrutiOps/leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
