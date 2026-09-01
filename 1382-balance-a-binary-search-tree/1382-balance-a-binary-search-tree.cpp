@@ -21,14 +21,10 @@ private:
     TreeNode* build(int l, int r) {
         if (l > r)
             return nullptr;
-
         int mid = l + (r - l) / 2;
-
         TreeNode* root = new TreeNode(nums[mid]);
-
         root->left = build(l, mid - 1);
         root->right = build(mid + 1, r);
-
         return root;
     }
 public:
