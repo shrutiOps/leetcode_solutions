@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shrutiOps/leetcode_solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shrutiOps/leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/shrutiOps/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3870-count-commas-in-range](https://github.com/shrutiOps/leetcode_solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shrutiOps/leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shrutiOps/leetcode_solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
