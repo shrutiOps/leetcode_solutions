@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shrutiOps/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/shrutiOps/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0078-subsets](https://github.com/shrutiOps/leetcode_solutions/tree/master/0078-subsets) |
+| [0327-count-of-range-sum](https://github.com/shrutiOps/leetcode_solutions/tree/master/0327-count-of-range-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shrutiOps/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/shrutiOps/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shrutiOps/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shrutiOps/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/shrutiOps/leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0327-count-of-range-sum](https://github.com/shrutiOps/leetcode_solutions/tree/master/0327-count-of-range-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shrutiOps/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shrutiOps/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shrutiOps/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/shrutiOps/leetcode_solutions/tree/master/0327-count-of-range-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shrutiOps/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shrutiOps/leetcode_solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/shrutiOps/leetcode_solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/shrutiOps/leetcode_solutions/tree/master/0327-count-of-range-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shrutiOps/leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Nim Game
 |  |
@@ -375,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shrutiOps/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0327-count-of-range-sum](https://github.com/shrutiOps/leetcode_solutions/tree/master/0327-count-of-range-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -405,4 +410,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shrutiOps/leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/shrutiOps/leetcode_solutions/tree/master/0327-count-of-range-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/shrutiOps/leetcode_solutions/tree/master/0327-count-of-range-sum) |
+## Treap
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/shrutiOps/leetcode_solutions/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
