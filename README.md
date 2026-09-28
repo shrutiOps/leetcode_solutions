@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shrutiOps/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/shrutiOps/leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shrutiOps/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/shrutiOps/leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/shrutiOps/leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1382-balance-a-binary-search-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shrutiOps/leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/shrutiOps/leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/shrutiOps/leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1382-balance-a-binary-search-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shrutiOps/leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/shrutiOps/leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1382-balance-a-binary-search-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Lifting
 |  |
@@ -422,4 +426,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/shrutiOps/leetcode_solutions/tree/master/0327-count-of-range-sum) |
+## Design
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/shrutiOps/leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/shrutiOps/leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
