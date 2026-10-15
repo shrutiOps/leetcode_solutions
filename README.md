@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/shrutiOps/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/shrutiOps/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/shrutiOps/leetcode_solutions/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/shrutiOps/leetcode_solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shrutiOps/leetcode_solutions/tree/master/0078-subsets) |
 | [0327-count-of-range-sum](https://github.com/shrutiOps/leetcode_solutions/tree/master/0327-count-of-range-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shrutiOps/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shrutiOps/leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/shrutiOps/leetcode_solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shrutiOps/leetcode_solutions/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/shrutiOps/leetcode_solutions/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/shrutiOps/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
