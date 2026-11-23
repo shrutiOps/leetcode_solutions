@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/shrutiOps/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/shrutiOps/leetcode_solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shrutiOps/leetcode_solutions/tree/master/0078-subsets) |
+| [0130-surrounded-regions](https://github.com/shrutiOps/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0327-count-of-range-sum](https://github.com/shrutiOps/leetcode_solutions/tree/master/0327-count-of-range-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shrutiOps/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shrutiOps/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shrutiOps/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/shrutiOps/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shrutiOps/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shrutiOps/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shrutiOps/leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shrutiOps/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/shrutiOps/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [1096-brace-expansion-ii](https://github.com/shrutiOps/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/shrutiOps/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shrutiOps/leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/shrutiOps/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [1254-number-of-closed-islands](https://github.com/shrutiOps/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shrutiOps/leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shrutiOps/leetcode_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -508,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/shrutiOps/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [1254-number-of-closed-islands](https://github.com/shrutiOps/leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shrutiOps/leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shrutiOps/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
